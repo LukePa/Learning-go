@@ -1,0 +1,1 @@
+Go's module system is awesome, remember to try this out with a module published to github, this stuff is is important to get good at
